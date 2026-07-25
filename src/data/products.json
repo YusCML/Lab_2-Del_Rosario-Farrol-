@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "AeroLite Headphones",
+    "category": "Headphones",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Nova Mechanical Keyboard",
+    "category": "Keyboards",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Pulse Wireless Mouse",
+    "category": "Mice",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=900&q=80",
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "Turbo USB-C Cable",
+    "category": "Cables",
+    "price": 24,
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Volt Pro Charger",
+    "category": "Chargers",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?auto=format&fit=crop&w=900&q=80",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "StudioPro Over-Ear Headphones",
+    "category": "Headphones",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=900&q=80",
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Atlas RGB Keyboard",
+    "category": "Keyboards",
+    "price": 189,
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?auto=format&fit=crop&w=900&q=80",
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Glide Ergonomic Mouse",
+    "category": "Mice",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=900&q=80",
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Flexi Charging Cable",
+    "category": "Cables",
+    "price": 19,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "HyperCharge 100W Charger",
+    "category": "Chargers",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1621891334881-ff6b5e8c0c74?auto=format&fit=crop&w=900&q=80",
+    "inStock": true
+  }
+]

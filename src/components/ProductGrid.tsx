@@ -39,7 +39,7 @@ export default function ProductGrid() {
     <div className="space-y-4">
       <div className="flex items-center justify-between">
         <div>
-          <h2 className="text-xl font-semibold text-slate-900">Featured gear</h2>
+          <h2 className="text-xl font-semibold text-slate-900">Featured Nobie gear</h2>
           <p className="text-sm text-slate-500">Discover the latest tech essentials.</p>
         </div>
         <span className="rounded-full bg-slate-100 px-3 py-1 text-sm font-medium text-slate-700">

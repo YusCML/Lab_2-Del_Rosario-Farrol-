@@ -11,7 +11,7 @@ export default function HomePage() {
         <Header />
         <main className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
           <div className="mb-8 rounded-3xl bg-slate-900 px-6 py-8 text-white shadow-lg">
-            <p className="text-sm font-semibold uppercase tracking-[0.35em] text-slate-400">GearHub</p>
+            <p className="text-sm font-semibold uppercase tracking-[0.35em] text-slate-400">NobieHub</p>
             <h2 className="mt-2 text-3xl font-bold">Build your ideal setup with high-performance tech.</h2>
             <p className="mt-3 max-w-2xl text-sm text-slate-300">
               Browse curated devices, filter by price or category, and manage your cart in one polished experience.

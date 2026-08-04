@@ -1,23 +1,27 @@
-# GearHub
+# GearHub - Mini E-Commerce Application
 
-GearHub is a modern Next.js storefront built with TypeScript, Tailwind CSS, and React context for state management.
+GearHub is a single-page React/Next.js application built for browsing tech accessories, filtering products, and managing a real-time shopping cart via state management powered by `useReducer` and `createContext`.
 
-## Setup
+# Features
+- **Product Catalog**: Filter by search query, category, and max price; sort by price or title.
+- **Cart Management**: Slide-out overlay showing line items, item counters, real-time totals, and checkout simulation.
+- **Badge Notification**: Real-time counter reflecting total item volume across all cart entries.
 
-1. Clone the repository.
-2. Install dependencies:
+# Tech Stack
+- **Framework**: [Next.js (App Router)](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Language**: TypeScript
+- **State Management**: React Context API & `useReducer`
+
+# Local Development Instructions
+
+# Prerequisites
+- Node.js (v18.0.0 or higher recommended)
+- npm, yarn, or pnpm
+
+# Getting Started
+
+1. **Clone the Repository**
    ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-4. Open http://localhost:3000 in your browser.
-
-## Features
-
-- Responsive product catalog
-- Live filtering and sorting
-- Sliding cart drawer with quantity controls
-- Cart badge and subtotal calculation
+   git clone [https://github.com/your-username/gearhub.git](https://github.com/your-username/gearhub.git)
+   cd gearhub

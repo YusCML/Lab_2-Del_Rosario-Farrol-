@@ -23,5 +23,5 @@ GearHub is a single-page React/Next.js application built for browsing tech acces
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/your-username/gearhub.git](https://github.com/your-username/gearhub.git)
+   git clone [https://github.com/YusCML/Lab_2-Del_Rosario-Farrol-](https://github.com/your-username/gearhub.git)
    cd gearhub
